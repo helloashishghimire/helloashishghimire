@@ -3,7 +3,7 @@
 🎓 **Master’s in Cybersecurity** @ *Louisiana State University Shreveport*  
 🛡️ **Student SOC Analyst** | Bridging Red & Blue Teams through a Purple Team mindset  
 
-🔍 Passionate about **Penetration Testing**, **Red Teaming**, **Network Security**, **Cloud Security**, **DevSecOps**, and **Identity & Access Management (IAM)** — building adaptive, intelligence-driven security programs.  
+🔍 Passionate about **Penetration Testing**, **Red Teaming**, **Network Security**, **Cloud Security**, **DevSecOps**, and **Identity & Access Management (IAM)**, and **Security Operations(SOC)**, **Threat Hunting**, and **Malware Analysis and Reverse engineering**, and **Digital Forensics and Incident Response**— building adaptive, intelligence-driven security programs.  
 
 💻 Skilled in **Python**, **PowerShell**, **Bash**, and tools like **Splunk**, **CrowdStrike Falcon**, & **Microsoft Entra ID**  
 
