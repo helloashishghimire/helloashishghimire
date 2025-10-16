@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Ashish Ghimire  
 
-<!--
-**helloashishghimire/helloashishghimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in **Cybersecurity** @ *Louisiana State University Shreveport*  
+🛡️ Student **SOC Analyst** | Passionate about Red, Blue & Purple Teaming  
 
-Here are some ideas to get you started:
+🔍 Focused on building adaptive, intelligence-driven security programs through:  
+**Threat Detection**, **Incident Response**, **IAM**, **Cloud Security**, and **DevSecOps**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skilled in **Python**, **PowerShell**, **Bash**, and tools like **Splunk**, **CrowdStrike**, & **Microsoft Entra ID**.  
+
+☁️ Exploring security across **AWS | Azure | GCP | Terraform | Docker | Kubernetes**  
+
+📚 Always learning. Always defending.  
+[LinkedIn](https://www.linkedin.com/in/ashish-ghimire-96755b179/) • [X](https://x.com/PingAshish)
